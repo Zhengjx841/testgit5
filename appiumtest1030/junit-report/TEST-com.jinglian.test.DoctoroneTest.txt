@@ -1,0 +1,4 @@
+Testsuite: com.jinglian.test.DoctoroneTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 42.165 sec
+
+Testcase: test took 42.133 sec
